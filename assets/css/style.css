@@ -430,6 +430,9 @@ h6 {
 #hero .btn-get-started:hover {
   background: #209dd8;
 }
+.hero-img img {
+  border-radius: 5px;
+}
 
 #hero .animated {
   animation: up-down 5s ease-in-out infinite alternate-reverse both;
@@ -675,7 +678,8 @@ section {
 --------------------------------------------------------------*/
 .cta {
   background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)),
-    url("../img/cta-bg.jpg") fixed center center;
+    url("https://lh5.googleusercontent.com/p/AF1QipNQWLBc3GiCfrbEJQe97gDSKiN0BMaavRt86oCW=w408-h272-k-no")
+      fixed center center;
   background-size: cover;
   padding: 120px 0;
 }
